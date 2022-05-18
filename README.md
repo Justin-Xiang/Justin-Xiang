@@ -19,5 +19,6 @@ I am Justin Xiang, currently pursuing my bachelor's degree majoring in computer 
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
 ![Justin Xiang's GitHub stats](https://github-readme-stats-vercel-chi.vercel.app/api?username=justin-xiang&count_private=true)
+![Wakatime Status](https://github-readme-stats-vercel-chi.vercel.app/api/wakatime?username=justinxiang)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justin-xiang&hide=html,CSS,Makefile,CMake,Matlab&layout=compact)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=justinxiang.justin-xiang)
