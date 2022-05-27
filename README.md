@@ -20,6 +20,14 @@ I am Justin Xiang, currently pursuing my bachelor's degree majoring in computer 
 
 ![Justin Xiang's GitHub stats](https://github-readme-stats-vercel-chi.vercel.app/api?username=justin-xiang&count_private=true)
 <!--START_SECTION:waka-->
+
+```text
+Python       52 mins         ███████████████████████░░   91.69 %
+TypeScript   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
+Markdown     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
+Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+```
+
 <!--END_SECTION:waka-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justin-xiang&hide=html,CSS,Makefile,CMake,Matlab&layout=compact)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=justinxiang.justin-xiang)
