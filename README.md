@@ -1,6 +1,6 @@
 ## Fancy seeing you here! 
 
-I am Justin Xiang, currently pursuing my bachelor's degree majoring in computer science from [HUST](https://www.hust.edu.cn/) and an intern at [Bytedance](https://bytedance.com). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am Justin Xiang, currently pursuing my bachelor's degree majoring in computer science from [HUST](https://www.hust.edu.cn/) and a former intern at [Bytedance](https://bytedance.com). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Twitter](https://img.shields.io/twitter/follow/justinxharold1?style=social)](https://twitter.com/justinxharold1)
 [![Linkedin Badge](https://img.shields.io/badge/-justinxiang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/xiang-liao-a61222218/)](https://www.linkedin.com/in/xiang-liao-a61222218/)
