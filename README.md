@@ -21,12 +21,12 @@ I am Justin Xiang, currently pursuing my bachelor's degree majoring in computer 
 ![Justin Xiang's GitHub stats](https://github-readme-stats-vercel-chi.vercel.app/api?username=justin-xiang&count_private=true)
 <!--START_SECTION:waka-->
 
-```text
-Text         2 hrs 27 mins   █████████▓░░░░░░░░░░░░░░░   38.60 %
-JavaScript   2 hrs 21 mins   █████████▒░░░░░░░░░░░░░░░   37.01 %
-Python       1 hr 16 mins    █████░░░░░░░░░░░░░░░░░░░░   19.98 %
-TypeScript   9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
-JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+```txt
+JavaScript   3 hrs 26 mins   ███████████░░░░░░░░░░░░░░   43.62 %
+Text         2 hrs 27 mins   ███████▓░░░░░░░░░░░░░░░░░   31.19 %
+Python       1 hr 16 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.14 %
+TypeScript   11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
+Markdown     10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
 ```
 
 <!--END_SECTION:waka-->
