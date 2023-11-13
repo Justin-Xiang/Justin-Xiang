@@ -22,10 +22,9 @@ I am Justin Xiang, currently pursuing my bachelor's degree majoring in computer 
 <!--START_SECTION:waka-->
 
 ```txt
-Rust       3 hrs 45 mins   █████████████████▓░░░░░░░   70.10 %
-Python     53 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.73 %
-Markdown   31 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.86 %
-JSON       10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
+Python     1 hr 8 mins     █████████████░░░░░░░░░░░░   52.15 %
+Rust       40 mins         ███████▓░░░░░░░░░░░░░░░░░   30.75 %
+Markdown   22 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.11 %
 ```
 
 <!--END_SECTION:waka-->
