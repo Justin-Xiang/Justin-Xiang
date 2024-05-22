@@ -22,8 +22,8 @@ I am Justin Xiang, currently pursuing my bachelor's degree majoring in computer 
 <!--START_SECTION:waka-->
 
 ```txt
-Go       15 mins         ██████████████░░░░░░░░░░░   55.49 %
-Python   12 mins         ███████████░░░░░░░░░░░░░░   44.51 %
+Go       9 mins          █████████████░░░░░░░░░░░░   52.17 %
+Python   8 mins          ████████████░░░░░░░░░░░░░   47.83 %
 ```
 
 <!--END_SECTION:waka-->
