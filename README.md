@@ -22,7 +22,8 @@ I am Justin Xiang, currently pursuing my bachelor's degree majoring in computer 
 <!--START_SECTION:waka-->
 
 ```txt
-SSH Config   10 mins         █████████████████████████   100.00 %
+SSH Config   10 mins         █████████████▒░░░░░░░░░░░   53.77 %
+Python       8 mins          ███████████▓░░░░░░░░░░░░░   46.23 %
 ```
 
 <!--END_SECTION:waka-->
