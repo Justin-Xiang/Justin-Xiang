@@ -22,11 +22,7 @@ I am Justin Xiang, currently pursuing my bachelor's degree majoring in computer 
 <!--START_SECTION:waka-->
 
 ```txt
-Nginx configuration file   17 mins         ██████████████░░░░░░░░░░░   56.60 %
-Text                       5 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.19 %
-Markdown                   3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.65 %
-SQL                        3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.14 %
-Other                      1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
+Python   4 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
